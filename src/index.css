@@ -1,0 +1,23 @@
+.bgimg{
+  height: 1076px;
+  width: auto;
+  background-image:url(../src/header5.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+}
+.bgimg h1{
+  color:azure;
+  font-size: 60px;
+  text-shadow: 2px 2px 5px black;
+}
+.topbar{
+  height: 40px;
+}
+.footerlogo{
+  height: 120px;
+  width: auto;
+}
+.footerpera{
+  text-align: justify;
+}
